@@ -1,0 +1,10 @@
+{
+  "name": "iequalsone/neoms-api",
+  "description": "Custom REST Endpoints / Routes",
+  "keywords": [
+    "wordpress",
+    "blog",
+    "cms"
+  ],
+  "type": "wordpress-plugin"
+}
